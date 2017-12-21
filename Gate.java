@@ -61,11 +61,3 @@ public class Gate {
 
 
 }
-
-//an underlined variable name is static
-//a variable name in all caps is final
-//+ indicates the field or method is public
-//− indicates the field or method is private
-//the parameter list for a method is listed in () with descriptive name and type
-//the return type is listed after the method
-//if no constructors are listed, assume only the default is used
